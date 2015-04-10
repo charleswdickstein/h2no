@@ -1,28 +1,49 @@
 .rainbow {
 	position: fixed;
-	margin-left: -20px;
-	top: -20;
-	left: -50;
+	/*margin-left: -20px;*/
+	top: 0;
+	left: 0;
 	width: 1500px;
 	height: auto;
+	z-index: -5;
+}
+
+.backgroundcolor {
+	background-color: rgba(255, 255, 255, .60);
 	z-index: -1;
+	position: fixed;
+	top: 0;
+	left: 25%;
+	right: 25%;
+	bottom: 0;
 }
 
 .middlebar {
-	/*background-color: rgba(255, 255, 255; 0);*/
-	width: 500px;
-	height: auto;
+	/*background-color: rgba(255, 255, 255, .60);*/
+	/*position: absolute;*/
+	width: 800px;
+	/*height: 900px;*/
 	margin-left: auto;
 	margin-right: auto;
-	border: solid 2px black;
+	/*border: solid 2px black;*/
+	z-index: 10;
+}
+
+.donatetoday {
+	margin-top: 100px;
+	font-size: 3em;
+	display: block;
+	text-align: center;
 	z-index: 10;
 }
 
 .girlneedswater {
-	float: left;
-	margin-top: 65px;
-	width: 650px;
-	height: auto;
+	/*float: left;*/
+	/*margin-top: 90px;*/
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	/*height: auto;*/
 	display: block;
 }
 
@@ -30,9 +51,11 @@
 	border: dotted 1px black;
 	border-radius: 5px;
 	background-color: #B2C2E0;
-	width: 30%;
+	width: 70%;
 	padding: 4px;
-	margin-left: 65%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
 	text-align: right;
 }
 
