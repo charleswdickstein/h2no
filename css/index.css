@@ -1,0 +1,96 @@
+.wrapper{
+	margin-top: 100px;
+	
+}
+body{
+	background-color: #E3493B;
+}
+
+header{
+	position: absolute;
+	top:0;
+	left: 0;
+	width:100%;
+	height:4em;
+	background-color: rgb(1, 80, 157);
+}
+
+header img{
+	width:10%;
+	height: 4em;
+}
+
+header nav{
+	width: 60%;
+	margin: -2.5em 200px;
+
+}
+header nav ul li{
+	border: 1px solid white;
+}
+
+header nav ul li{
+	width: 6em;
+	color: #F5FFFA;
+	font-family: arial;
+	font-size: 1.2em;
+	display: inline-block;
+	list-style-type: none;
+}
+
+.picture{
+	margin: -6.3em -4em;
+	
+	float: left;
+}
+.picture img{
+	width: 100%;
+	height: 15em;
+	margin: 50px 50px;
+	
+}
+
+
+.text{
+	height: 10em;
+	width: 60%;
+	margin-top: 2.3em;
+	padding: .5em;
+	line-height: 26px;
+	float: left;	
+}
+
+.text p{
+
+}
+.donate{
+	
+	margin-top: 2em;
+	float: left;
+}
+
+.donate ul{
+	font-family: arial;
+	line-height: 30px;
+	padding:10px 20px;
+	list-style-type: none;
+}
+.donate ul button{
+	font-size: 14px;
+	border-radius: 10px;
+	width: 300px;
+	color:white;
+	font-style: bold;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	background-color: aqua;
+}
+
+footer{
+	position: absolute;
+	bottom:0;
+	left: 0;
+	width: 100%;
+	height:100px;
+	background-color: #EEBA4C;
+}
+
