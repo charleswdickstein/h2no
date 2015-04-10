@@ -3,9 +3,19 @@
 	margin-left: -20px;
 	top: -20;
 	left: -50;
-	width: 1750px;
+	width: 1500px;
 	height: auto;
 	z-index: -1;
+}
+
+.middlebar {
+	/*background-color: rgba(255, 255, 255; 0);*/
+	width: 500px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 2px black;
+	z-index: 10;
 }
 
 .girlneedswater {
@@ -13,6 +23,7 @@
 	margin-top: 65px;
 	width: 650px;
 	height: auto;
+	display: block;
 }
 
 .donateform {
