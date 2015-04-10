@@ -8,7 +8,7 @@ header{
 	left: 0;
 	width:100%;
 	height:4em;
-	background-color: aqua;
+	background-color: rgb(1, 80, 157);
 }
 
 header img{
@@ -43,11 +43,11 @@ header nav ul li{
 }
 
 .text{
-	height: 10em;
-	width: 60%;
-	padding: .5em;
-	line-height: 19px;
-	float: left;	
+	/*height: 10em;*/
+	/*width: 60%;*/
+	/*padding: .5em;*/
+	/*line-height: 19px;*/
+	/*float: left;	*/
 }
 
 .text p{

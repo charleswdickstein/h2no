@@ -1,0 +1,58 @@
+.earth {
+	position: fixed;
+	top: -330px;
+	left: 0;
+	z-index: -1;
+}
+
+h1{
+	max-width: 100%;
+	margin: 3em auto 0.5em auto;
+	text-align: center;
+}
+
+.text {
+	width: 34em;
+	margin: 0 auto;
+	font-size: 1.5em;
+	background-color: rgba(255, 255, 255, 0.62);
+	padding: 0.5em 1.5em;
+}
+
+.one {
+	padding-left: 18em;
+	text-align: justify;
+	margin-top: 0;
+}
+
+.two {
+	margin-bottom: 1em;
+}
+
+.three {
+	padding-left: 16em;
+	padding-bottom:2em;
+}
+
+
+.water {
+	float: left;
+	width: 16.7em;
+	padding-top: 2em;
+}
+
+
+.hands {
+	float: right;
+	width: 18em;
+}
+
+.yolk {
+	float: left;
+	width: 14em;
+}
+
+.river {
+	width: 18em;
+	margin: 0 25%;
+}
