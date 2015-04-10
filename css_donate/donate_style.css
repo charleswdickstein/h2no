@@ -81,3 +81,9 @@ input {
 
 	-webkit-appearance: none;
 }
+
+.caret {
+	width: 8px;
+	height: 4px;
+	
+}
